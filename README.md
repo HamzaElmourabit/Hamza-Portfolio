@@ -30,18 +30,11 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Elmourabit&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Elmourabit&theme=radical" alt="GitHub streak" width="48%"/>
-</p>
+
 
 ---
 
-### 📈 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Elmourabit&layout=compact&theme=radical" alt="Top languages" />
-</p>
+
 
 ---
 
