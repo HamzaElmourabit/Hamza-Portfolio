@@ -27,17 +27,6 @@
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 
-
----
-
-
-
----
-
-
-
----
-
 ### 🌐 Connect with Me  
 <p>
   <a href="https://linkedin.com/in/hamzaelmourabit" target="_blank">
