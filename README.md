@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me  
 - 🌍 Based in **Morocco**  
-- 🎓 Passionate about **software development & AI**  
+- 🎓 Passionate about **Data Science & AI**  
 - 🌱 Currently exploring **AI-powered applications**  
 - ⚡ Fun fact: _"I debug, therefore I am."_  
 
