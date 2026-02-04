@@ -10,9 +10,20 @@
 - 🎓 Passionate about **Data Science & AI**  
 - 🌱 Currently exploring **AI-powered applications**  
 - ⚡ Fun fact: _"I debug, therefore I am."_  
+HamzaElmourabit
+---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaElmourabit&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=HamzaElmourabit&theme=tokyonight&hide_border=true)
+
+---
+
+## 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaElmourabit&layout=compact&theme=tokyonight&hide_border=true)
 ### 🛠️ Tech Stack  
 
 **Frontend:**  
