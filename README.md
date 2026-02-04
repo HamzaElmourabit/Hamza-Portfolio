@@ -10,7 +10,7 @@
 - 🎓 Passionate about **Data Science & AI**  
 - 🌱 Currently exploring **AI-powered applications**  
 - ⚡ Fun fact: _"I debug, therefore I am."_  
-HamzaElmourabit
+
 ---
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaElmourabit&show_icons=true&theme=tokyonight&hide_border=true)
