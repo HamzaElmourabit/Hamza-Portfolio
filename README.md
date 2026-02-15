@@ -1,7 +1,7 @@
 <!-- Profile README for Hamza Elmourabit -->
 
 <h1 align="center">Hi 👋, I'm Hamza Elmourabit</h1>
-<h3 align="center">💻 Big Data and IS Student | 🚀 Tech Enthusiast | 📚 Lifelong Learner</h3>
+<h3 align="center">💻 Big Data and IS engineering Student | 🚀 Tech Enthusiast | 📚 Lifelong Learner</h3>
 
 ---
 
