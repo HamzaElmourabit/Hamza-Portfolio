@@ -82,12 +82,8 @@
 
 ---
 
-### 📊 Data Visualization & BI  
+### 📊 Data Visualization & BI Tools
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-
----
-
-### 🧩 Data & BI Tools  
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![SSIS](https://img.shields.io/badge/SSIS-FFB900?style=for-the-badge)
 ![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=for-the-badge)
