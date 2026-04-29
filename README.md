@@ -75,6 +75,7 @@
 
 ---
 
+
 ### ⚡ Big Data & Distributed Systems  
 ![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop)
 ![YARN](https://img.shields.io/badge/YARN-FF6600?style=for-the-badge)
@@ -82,11 +83,13 @@
 
 ---
 
-### 📊 Data Visualization & BI Tools
+### 🐳 DevOps & Containers  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 Data Visualization & BI  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![SSIS](https://img.shields.io/badge/SSIS-FFB900?style=for-the-badge)
-![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=for-the-badge)
 
 ---
 
