@@ -29,7 +29,10 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=HamzaElmourabit&theme=tokyonight&no-frame=true&margin-w=10)
 
+---
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HamzaElmourabit&theme=tokyonight&hide_border=true" />
