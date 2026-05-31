@@ -110,6 +110,23 @@
 
 ---
 
+## 📈 Featured Project 18: Marketing Mix Modeling (MMM) avec attribution multi-touch
+
+**Contexte :** un annonceur souhaite mesurer le ROI incrémental de ses canaux média — TV, search et social — afin d'optimiser ses arbitrages budgétaires.
+
+**Objectifs clés :**
+- Collecter, nettoyer et consolider les dépenses média, ventes, calendriers promotionnels et variables business dans **BigQuery**.
+- Construire un modèle MMM avec **régression ridge** et approche **Bayesian** via **PyMC3**, en intégrant les effets d'**adstock**, la saturation des canaux et les interactions média.
+- Développer un dashboard **Streamlit** avec scénarios budgétaires, courbes de réponse, ROI par canal et simulations de réallocation.
+- Comparer les résultats MMM avec une attribution data-driven basée sur les **Shapley values** pour expliquer la contribution multi-touch.
+- Valider l'incrémentalité avec des **geo experiments** et connecter les insights à **Looker embedded** pour le reporting métier.
+
+**Technologies :** Python, PyMC3, Streamlit, BigQuery, Looker embedded, scikit-learn, pandas.
+
+**Aspects avancés :** réduction de dimension via transformations adstock, modélisation de la saturation, interactions entre canaux, attribution Shapley et expérimentation géographique.
+
+---
+
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/hamzaelmourabit" target="_blank">
